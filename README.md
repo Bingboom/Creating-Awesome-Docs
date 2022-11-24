@@ -7,6 +7,6 @@
 ![图片](https://user-images.githubusercontent.com/34495675/203730687-b4188adc-9175-4e1c-b041-95cf220c23e4.png)
 
 ## 社区地图
-#### [开源文档写作技能树](https://github.com/Bingboom/Creating-Awesome-Docs/blob/main/Technical%20Writing%20Skills) 
+#### [开源文档写作技能树](https://github.com/Bingboom/Creating-Awesome-Docs/blob/main/Technical%20Writing%20Skills.md) 
 #### 怎样让人们简单的理解一个复杂的产品
 #### 技术写作都有什么产品输出
