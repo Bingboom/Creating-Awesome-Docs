@@ -1,28 +1,82 @@
-# 这里是开源文档社区
-## 社区目的：
-1. 通过创建开源文档社区制造跟用户直接“面对面”的机会，以提供更好的服务。
-2. 在问题反馈与解决中，形成正反馈，以达到敏捷优化文档及产品，提高质量的目的。
--   本社区所有内容欢迎大家的贡献、讨论、改编。
--   所有内容保持更新，欢迎任何人提出改进意见，如发现有错误或遗漏的点，请提Issue。
-![图片](https://user-images.githubusercontent.com/34495675/203730687-b4188adc-9175-4e1c-b041-95cf220c23e4.png)
+<!-- Add banner here -->
 
-## 社区地图
-#### [开源文档写作技能树](https://github.com/Bingboom/Creating-Awesome-Docs/blob/main/Technical%20Writing%20Skills.md) 
-#### 怎样让人们简单的理解一个复杂的产品
-#### 技术写作都有什么产品输出
+[![Header](https://github.com/caly-pso/caly-pso.github.io/blob/main/assets/img/header.png)](#Header)
 
-## 相关博客文章
+# My Portfolio
 
-<img align="right" src="https://user-images.githubusercontent.com/34495675/203534391-df72797a-76a2-4003-b330-c2a120fde9ac.png" alt="微信公众号二维码：TC喵" height="150" />
+<!-- buttons -->
+
+[![Skills](https://img.shields.io/badge/-XML-green?style=for-the-badge)](#Skills)
+[![Skills](https://img.shields.io/badge/-DITA-yellowgreen?style=for-the-badge)](#Skills)
+[![Skills](https://img.shields.io/badge/-Markdown-yellow?style=for-the-badge)](#Skills)
+
+<!--Colors: brightgreengreenyellowgreenyelloworangeredbluelightgrey
+successimportantcriticalinformationalinactive
+bluevioletff69b49cf-->
+
+Hi there! 🙌
+
+Here is my collecting of technical writing and documentation I have made! 
+
+<br>
+
+# Project Preview
+
+<!-- project preview -->
+
+### Create Your Own Portfolio Website
+
+<p align="center">
+<a href="https://github.com/caly-pso/websiteCreation_inDITA"><img src="https://github.com/caly-pso/dita_documenation/blob/main/create_portfolio/img/preview/1.gif" alt="Writing Example" width="550"/></a>
+<a href="https://github.com/caly-pso/websiteCreation_inDITA"><img src="https://github.com/caly-pso/dita_documenation/blob/main/create_portfolio/img/preview/3.gif" alt="Writing Example" width="550"/></a>
+</p>
+
+### Clone and Edit a GitHub Repository
+
+<p align="center">
+<a href="https://github.com/caly-pso/technical_writing/blob/main/clone_a_portfolio_site/clone_and_edit.md"><img src="/assets/img/github_clone.gif" alt="Writing Example" width="550"/></a>
+</p>
+
+### Streamlit Quickstart Guide
+
+<p align="center">
+<a href="https://github.com/caly-pso/technical_writing/blob/main/streamlit_app_quickstart_guide/quickstart.md"><img src="/assets/img/streatmlit_quickstart.png" alt="Writing Example" width="550"/></a>
+</p>
+
+### Pediatric Medical Codes
+
+<p align="center">
+<a href="https://github.com/caly-pso/technical_writing/blob/main/other/PediatricCodes.pdf"><img src="/assets/img/pediatrics_code.png" alt="Writing Example" width="550"/></a>
+</p>
+
+<br>
+
+# Open-Source Contributions
+
+<p align="center">
+<a href="https://gitlab.com/saltstack/open/docs/salt-user-guide"><img src="/assets/img/salt_guide_contribution.png" alt="Writing Example" width="550"/></a>
+</p>
+During the Salt User Guide Docs Jam I provided technical writing support to the open-source Salt Project converting sections of the Salt User Guide from a Google Doc format into reStructured Text (rSt) and committing a final merge using git and GitLab.
 
 
-- [30 页的开源版中文技术文档写作风格指南，Web 端开放访问！](https://mp.weixin.qq.com/s/5znjT8FKJU08YS5lKFJvDA)
-- [《风格指南》站的实现篇——如何在 30 分钟内制作一个美观的在线文档网站](https://mp.weixin.qq.com/s/7hfOOmhtJURewq8Fz7NhKg)
+# Resources:
 
-欢迎扫码关注我的微信公众号『TC喵』👉
+- oXygen XML
+- Markdown
+- rSt
+- Microsoft Word
 
+<br>
 
+<!-- Add the footer here -->
 
-## 内容星标数
+# Visit My Other Projects
 
-[![Stargazers over time](https://starchart.cc/Bingboom/zh-style-guide.svg)](https://starchart.cc/Bingboom/zh-style-guide)
+- [Build a Bootstrap Portfolio](https://github.com/caly-pso/portfolio_website_template)
+- [Survivors of Human Trafficking EDA](https://github.com/caly-pso/EDA_trafficking_survivors)
+
+<br>
+
+# Contact Me
+
+[![Footer](https://github.com/caly-pso/caly-pso.github.io/blob/main/assets/img/footer.png)](#Footer)
